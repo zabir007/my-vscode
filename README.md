@@ -1,1 +1,1 @@
-# my-vscode
+# my-vscode-setting
